@@ -1,2 +1,2 @@
-# projetos-progamacao
+# Projetos-Progamacao
 Esse projeto será para meu desenvolvimento em progamação.
